@@ -1,6 +1,6 @@
 {
    "offsets":{
-      "uworld":"0x102f69d8",
+      "uworld":"0xf1add68",
       "Gameinstance":"0x1b8",
       "LocalPlayers":"0x38",
       "PlayerController":"0x30",
@@ -32,3 +32,5 @@
       "CurrentWeapon":"0x908"
    }
 }
+
+//Fortnite Offsets discord.gg/sql
